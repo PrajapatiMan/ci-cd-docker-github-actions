@@ -1,0 +1,11 @@
+{
+  "name": "ci-cd-docker-project",
+  "version": "1.0.0",
+  "description": "Beginner CI/CD project using Docker and GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "student",
+  "license": "MIT"
+}
